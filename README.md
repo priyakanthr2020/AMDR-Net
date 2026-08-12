@@ -364,21 +364,19 @@ Ablation studies of individual AMDR-Net modules
 Optimization for real-time semiconductor inspection systems
 Deployment on edge or industrial inspection hardware
 Investigation of additional degradation types
+
 Citation
-
 If you use this implementation or AMDR-Net in academic or research work, please cite the corresponding research publication.
+[1] R.Priyakanth, "AMDR-Net," GitHub, 2020. [Online]. Available: https://github.com/priyakanthr2020/AMDR-Net.git
 
-Citation information will be added after publication.
+
+
 License
-
 This repository is intended for research and educational purposes.
-
 Please refer to the repository license for terms governing use, modification, and redistribution.
 
 Contact
-
 For questions regarding the implementation or research work, please use the GitHub repository's issue tracker.
 
 Repository:
-
 https://github.com/priyakanthr2020/AMDR-Net
