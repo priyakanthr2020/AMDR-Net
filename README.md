@@ -367,7 +367,7 @@ Investigation of additional degradation types
 
 Citation
 If you use this implementation or AMDR-Net in academic or research work, please cite the corresponding research publication.
-[1] R.Priyakanth, "AMDR-Net," GitHub, 2020. [Online]. Available: https://github.com/priyakanthr2020/AMDR-Net.git
+[1] R.Priyakanth, "AMDR-Net," GitHub. [Online]. Available: https://github.com/priyakanthr2020/AMDR-Net.git
 
 
 
