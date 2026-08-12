@@ -10,7 +10,7 @@ The proposed framework combines degradation analysis, adaptive feature fusion, s
 
 The repository provides the trained model, training notebook, standalone evaluation script, requirements, and restored test outputs to support reproducibility and evaluation.
 
----
+
 
 ## Problem Statement
 
@@ -26,7 +26,7 @@ These degradations can affect the visibility of fine structures and defects in s
 
 AMDR-Net addresses this problem by learning to restore high-resolution images from degraded low-resolution inputs while preserving important spatial and frequency-domain information.
 
----
+
 
 ## Proposed Solution
 
